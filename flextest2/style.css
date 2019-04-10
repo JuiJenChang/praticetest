@@ -25,16 +25,17 @@ section{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    min-width: 1280px;
 }
 .verse{
     background: #dadf93;
-    width: auto;
+    width: 70%;
     height: 300px;
     padding: 20px;
 }
 .chorus{
     background: #959e19;
-    width: 500px;
+    width: 30%;
     height: 300px;
     padding: 20px;
 }
@@ -45,8 +46,8 @@ section{
     align-items: center;
     width: 100%;
     height: 100px;
-    position: absolute;
-    bottom: 0;
+    font-family: monospace;
+    font-size: 40px;
 }
 .h1{
     font-family: fantasy;
