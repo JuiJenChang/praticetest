@@ -42,7 +42,7 @@ img{
 .footer{
     text-align: right;
 }
-.footer2{
+.footer-container{
     display: flex;
     flex-direction: column;
     background: rgb(226, 173, 75);
@@ -51,7 +51,7 @@ img{
     height: 100px;
     padding: 20px;
 }
-.h2{
+.sidebar-h2{
     font-family: inherit;
     color: rgb(221, 17, 17);
     padding-left: 50px;
@@ -60,9 +60,9 @@ img{
     font-size: 15px;
     color: rgb(0, 89, 255);
 }
-.span{
+.footer-span{
     color: rgb(12, 80, 12);
 }
-.span2{
+.header-h1-span{
     color: rgb(220, 233, 34);
 }

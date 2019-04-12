@@ -1,7 +1,7 @@
-#bgc{
+body{
     background: gray;
 }
-#center1{
+.title{
     text-align: center;
     margin: 100px auto;
 }
@@ -9,7 +9,7 @@
     color: #3ccbe8;
     font-size: 80px;
 }
-#add1{
+#add-num{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     padding: 5px 10px;
@@ -24,7 +24,7 @@
                 4px 3px 0 black 3px 4px 0 black 
                 4px 4px 2px black;
 }
-#minus1{
+#minus-num{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     padding: 5px 10px;

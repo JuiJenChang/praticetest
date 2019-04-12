@@ -1,5 +1,5 @@
-let add = document.getElementById("add1");
-let min = document.getElementById("minus1");
+let add = document.getElementById("add-num");
+let min = document.getElementById("minus-num");
 let i = 0;
 add.onclick = plus;
 min.onclick = minus2;

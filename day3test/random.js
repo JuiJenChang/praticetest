@@ -1,4 +1,4 @@
-let btn = document.getElementById("btn1");
+let btn = document.getElementById("btn");
 let color = ["#630315", "#0e6302", "#b57807", "#117789","#59039b","#e091be"];
 let i = 0;
 btn.onclick = change;

@@ -1,7 +1,7 @@
 body{
     background: gray;
 }
-.flex{
+.flex-container{
     display: flex;
     width: 1000px;
     height: 700px;
@@ -12,7 +12,7 @@ body{
     align-items: center;
     padding: 38px 60px;
 }
-.div1{
+.item-1{
     display: flex;
     width: 300px;
     height: 300px;
@@ -23,7 +23,7 @@ body{
     align-items: center;
     margin: 10px;
 }
-.div2{
+.item-2{
     display: flex;
     width: 300px;
     height: 300px;
@@ -34,7 +34,7 @@ body{
     align-items: center;
     margin: 10px;
 }
-.div3{
+.item-3{
     display: flex;
     width: 300px;
     height: 300px;
