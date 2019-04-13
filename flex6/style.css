@@ -1,0 +1,45 @@
+body{
+    background: rgb(83, 151, 207);
+}
+.login{
+    display: flex;
+    justify-content: center;
+    margin: 250px;
+}
+.login-square{
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+}
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    background: rgb(236, 235, 235);
+    padding: 20px;
+    margin: 10px;
+    border: 0;
+}
+button{
+    background: rgb(83, 151, 207);
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 209px;
+    height: 30px;
+    border: 0;
+    margin: 10px;
+}
+.login-p{
+    color: rgb(173, 173, 173);
+}
+.login-a{
+    color: rgb(29, 148, 196);
+    text-decoration: none;
+}
