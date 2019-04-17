@@ -1,0 +1,20 @@
+.hold{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items:center;
+   margin: 120px;
+   padding: 120px;
+   font-family: monospace;
+}
+button{
+    background: rgb(58, 106, 161);
+    color: white;
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+}
+.selected{
+    background: rgb(187, 17, 202);
+}
