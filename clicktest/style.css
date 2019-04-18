@@ -16,5 +16,5 @@ button{
     border-radius: 10px;
 }
 .selected{
-    background: rgb(187, 17, 202);
+    background: #333;
 }

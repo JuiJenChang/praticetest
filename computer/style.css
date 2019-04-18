@@ -1,0 +1,17 @@
+body{
+    background: gray;
+}
+main{
+    display: flex;
+    justify-content: center;
+    padding: 250px;
+}
+.calculation{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(33, 178, 223);
+    width: 300px;
+    height: 200px;
+}
