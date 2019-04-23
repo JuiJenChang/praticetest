@@ -1,0 +1,26 @@
+body{
+    background: rgb(34, 131, 211);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+h1{
+    font-family: Verdana;
+    font-size: 50px;
+}
+p{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+}
+button{
+    background: rgb(34, 131, 211);
+    border-radius: 5px;
+    border: 3px solid white;
+    color: white;
+    margin-left: 45px;
+}
